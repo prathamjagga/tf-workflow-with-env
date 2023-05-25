@@ -2,6 +2,6 @@ terraform {
   backend "s3" {
     bucket = "tf-backend-bucket-pratham"
     key    = "tf-workflow-backend"
-    region = "us-east-1"
+    region = "ap-south-1"
   }
 }
