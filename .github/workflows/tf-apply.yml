@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       working-directory: ./
-      name: pratham-bucket-1
+      name: pratham-unique-1
       owner: pratham.jagga@cloudeq.com
 
     # Use the Bash shell regardless whether the GitHub Actions runner is ubuntu-latest, macos-latest, or windows-latest
