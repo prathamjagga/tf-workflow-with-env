@@ -9,8 +9,8 @@ jobs:
     runs-on: ubuntu-latest
     env:
       working-directory: ./
-      name: Pratham
-      email: pratham.jagga@cloudeq.com
+      name: pratham-bucket-1
+      owner: pratham.jagga@cloudeq.com
 
     # Use the Bash shell regardless whether the GitHub Actions runner is ubuntu-latest, macos-latest, or windows-latest
     defaults:
